@@ -1,0 +1,16 @@
+name: xBolt
+version: '8.0'
+main: uk.undev.xBolt
+api-version: '1.20'
+authors: [ JavaNorge, 46mil ]
+description: The Blaze of The Caves
+
+sounds:
+  bolt.attack:
+    category: hostile
+    sounds:
+      - bolt.attack.ogg
+  bolt.death:
+    category: hostile
+    sounds:
+      - bolt.death.ogg
