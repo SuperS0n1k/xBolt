@@ -1,0 +1,6 @@
+name: xBolt
+version: '8.0'
+main: uk.undev.xBolt
+api-version: '1.20'
+authors: [ JavaNorge, 46mil ]
+description: Custom Blaze Entity Plugin
